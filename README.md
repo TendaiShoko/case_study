@@ -63,4 +63,14 @@ The dataset that they found was collected by asking the following questions to a
         - Confusion Matrix
         - Plotting the confusion matrix
 
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](case_study.csv) within this repo.
+
+    *If using offline data mention that and how they may obtain the data from the froup)*
+3.On local machine create a venv then install requirement.txt    
+    
+
+
 
