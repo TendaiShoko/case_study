@@ -1,14 +1,15 @@
-# Case Study
+# Case Study on healthier lifestyle incentives
 
-1. Your organisation would like to offer their employees an allowance to live a healthier lifestyle, and improve the physical health of their employees.
+## Project Description
+
+An organisation would like to offer their employees an allowance to live a healthier lifestyle, and improve the physical health of their employees.
 However, the organisation cannot afford to give this allowance to all employees and have requested the data science team to help identify the employees
 that will benefit most from this.
 
-
-2. The data science team conducted research and found a dataset on the internet, that they believe can help them predict if someone 
+The data science team conducted research and found a dataset on the internet, that they believe can help them predict if someone 
 is at risk for heart disease or not, which they believe will be a good indicator of employees that will benefit from this health-allowance .
     
-3. The dataset that they found was collected by asking the following questions to a certain group of people:
+The dataset that they found was collected by asking the following questions to a certain group of people:
     
 - `HeartDisease`:	Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
 - `BMI`:	Body Mass Index (BMI)
@@ -31,7 +32,18 @@ is at risk for heart disease or not, which they believe will be a good indicator
 - `KidneyDisease`:	Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
 - `SkinCancer`:	(Ever told) (you had) skin cancer?
 
-##Project Structure
+## Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+        
+## Technologies
+* Python
+* Pandas, jupyter
+* AWS Sagemaker
+
+## Project Structure
 1. Importing the required libraries.
 2. Importing and Reading the dataset.
 3. Exploratory Data Analysis (EDA)
