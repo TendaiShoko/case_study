@@ -63,6 +63,23 @@ The dataset that they found was collected by asking the following questions to a
         - Confusion Matrix
         - Plotting the confusion matrix
 
+##  Evaluation Metrics
+
+The model will be using various evaluation metrics such as
+
+- Accuracy: which refers to how close a measurement is to the true value and can be calculated using the following formula
+
+![image](https://user-images.githubusercontent.com/30470730/72439883-c586f180-37cd-11ea-94a3-09c09cbd4814.png)
+
+
+- Precision: which is how consistent results are when measurements are repeated and can be calculated using the following formula
+
+ ![image](https://user-images.githubusercontent.com/30470730/72440009-10a10480-37ce-11ea-8f11-0a3352d0646c.png)
+
+- Recall: which refers to the percentage of total relevant results correctly classified by the model and can be calculated using the formula
+
+ ![image](https://user-images.githubusercontent.com/30470730/72440027-1565b880-37ce-11ea-8bf9-5c5d7a609f85.png)
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
