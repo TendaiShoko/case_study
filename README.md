@@ -84,8 +84,6 @@ The model will be using various evaluation metrics such as
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](case_study.csv) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
 3.On local machine create a venv then install requirement.txt    
     
 
