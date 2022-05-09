@@ -41,7 +41,7 @@ The dataset that they found was collected by asking the following questions to a
 ## Technologies
 * Python
 * Pandas, jupyter
-* AWS Sagemaker
+
 
 ## Project Structure
 1. Importing the required libraries.
